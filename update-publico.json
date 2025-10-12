@@ -1,11 +1,12 @@
 {
-  "current_version": "3.6.0",
+  "current_version": "3.3",
   "mandatory": false,
   "release_date": "11/10/2025",
   "download_link": "https://www.mediafire.com/folder/lqml1i7fnqm4j/MOVISUR_Tool_(Público)",
   "change_logs": "✅ Mejoras de rendimiento\n✅ Interfaz más rápida\n✅ Ajustes menores en la experiencia de usuario",
   "allowed_versions": ["3.5.0", "3.6.0"]
 }
+
 
 
 
