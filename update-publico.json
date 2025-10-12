@@ -1,11 +1,12 @@
 {
   "current_version": "3.4.0",
-  "mandatory": true,
+  "mandatory": false,
   "release_date": "11/10/2025",
   "download_link": "https://www.mediafire.com/folder/lqml1i7fnqm4j/MOVISUR_Tool_(Público)",
   "change_logs": "Versión 3.4.0 (OBLIGATORIA): mejoras críticas.",
   "allowed_versions": ["3.4.0", "3.5.0"]
 }
+
 
 
 
