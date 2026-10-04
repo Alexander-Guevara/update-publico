@@ -1,17 +1,8 @@
-[
-  { "text": "» Novedades en el Software MOVISUR VIP", "color": "Lime", "bold": true },
-
-  { "text": "» Presentamos MOVISUR Phone, conozca su utilidad y funcionamiento en el Tutorial YouTube, Categoría: Util. Cat. Principal.", "color": "Yellow", "bold": true },
-
-  { "text": "» Fix Yape / Método 6, compatible con últimas versiones Yape.", "color": "Violet", "bold": true },
-
-  { "text": "» Fix Yape / Método 5, compatible con últimas versiones Yape.", "color": "Orange", "bold": true },
-  { "text": "» Potente gestor de aplicaciones, incluye Forzar desinstalación.", "color": "Cyan", "bold": true },
-  { "text": "» Servicios remotos: +51 930 550 112", "color": "Yellow", "bold": true },
-  { "text": "» Extracción / Escritura, Particiones Xiaomi Eng Firmware.", "color": "Cyan", "bold": true },
-  { "text": "» Extracción / Escritura, Particiones Root.", "color": "Violet", "bold": true },
-  { "text": "» Lectura / Escritura, Critical Data Qualcomm.", "color": "Yellow", "bold": true },
-  { "text": "» Parchar oem info / PayJoy, Movistar, Claro, etc.", "color": "Cyan", "bold": true },
-  { "text": "» Modificación directa SN / Root requerido.", "color": "Yellow", "bold": false },
-  { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Cyan", "bold": true }
-]
+{
+  "current_version": "3.8.1",
+  "mandatory": true,
+  "release_date": "05/10/2026",
+  "download_link": "https://www.mediafire.com/folder/lqml1i7fnqm4j/MOVISUR_Tool_(Público)",
+  "change_logs": "[VIP] Presentamos MOVISUR Phone.\n\n[VIP] Conozca su utilidad y funcionamiento en el Tutorial YouTube, Categoría: Util. Cat. Principal\n\n[Público] Rendimiento de lectura mejorado.",
+  "allowed_versions": ["4.0.0", "3.8.1", "3.6.0", "3.7.0", "3.7.1", "3.8.0"]
+}
